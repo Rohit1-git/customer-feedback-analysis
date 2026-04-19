@@ -1,4 +1,3 @@
-# customer-feedback-analysis
 # Customer Feedback Analysis
 
 ## 📊 Project Overview
@@ -16,9 +15,6 @@ This project analyzes customer feedback data using Microsoft Excel.
 - Data cleaning
 - Data analysis
 - Charts and visualization
-
-## 📷 Screenshots
-(Add your charts screenshots here)
-
+  
 ## 📌 Conclusion
 This project helps businesses improve services based on customer feedback.
